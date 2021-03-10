@@ -1,6 +1,6 @@
 
 {
-  "name": "Eugen",
+  "name": "Emma",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -80,7 +80,7 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "9.5"
+        "version": "10"
       }
     }
   ]
