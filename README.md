@@ -27,7 +27,7 @@ Note to maintainers that all schema changes will be found in the commit messages
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dank-del/Eugen)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farihdzkyy/Eugen)
 
 Once you've setup your database and your configuration (see below) is complete, simply run:
 
